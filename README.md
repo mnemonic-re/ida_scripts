@@ -10,8 +10,6 @@
 
 <img width="1476" height="684" alt="1" src="https://github.com/user-attachments/assets/5713692c-a8c1-4255-b7d6-2efd6e702066" />
 
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/182d83f3-968a-4943-b18d-bd5160992357" />
-
 <br />SignatureGenerator - Can create 3 different types of signatures: IDA, x64dbg and CByteArray String mask<br />
 
 <img width="1498" height="568" alt="1" src="https://github.com/user-attachments/assets/28db9fc3-e9f7-45ad-9728-62ed96260789" />
