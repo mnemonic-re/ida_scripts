@@ -1,6 +1,6 @@
 # CopyOpcodes
 
-__AUTHOR__ = '@mnemonic-re'
+__AUTHOR__ = '@mnemonic'
 PLUGIN_NAME = "CopyOpcodes"
 PLUGIN_HOTKEY = 'Ctrl+Shift+H'
 VERSION = '1.0.0'
