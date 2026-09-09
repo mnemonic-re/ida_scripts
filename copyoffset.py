@@ -7,7 +7,7 @@ import idautils
 from PyQt5.QtWidgets import QApplication
 
 VERSION = '1.0.0'
-__AUTHOR__ = 'mnemonic-re'
+__AUTHOR__ = 'mnemonic'
 
 PLUGIN_NAME = "Copy Address Offset"
 PLUGIN_HOTKEY = "Shift+C"
