@@ -1,6 +1,6 @@
 # Signature Generator
 
-__AUTHOR__ = '@argie'
+__AUTHOR__ = '@mnemonic'
 PLUGIN_NAME = "IDA Signature Generator"
 PLUGIN_HOTKEY = 'Ctrl+Shift+S'
 VERSION = '1.0.0'
